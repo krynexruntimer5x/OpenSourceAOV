@@ -3,7 +3,7 @@
 #                 [ Script Information ]
 #
 #  Name      : AoV - Key Scipt
-#  Author    : Killian
+#  Author    : w4ryg
 #
 #  License   : This tool is strictly for personal use.  
 #              Redistribution, resale, or sharing  
