@@ -1,4 +1,4 @@
-# skill.bytes Editing Guide (2 Bytes Hex Method) Written by KILLAIN4X
+# skill.bytes Editing Guide (2 Bytes Hex Method) Written by W4RYG 
 # This guide explains a simple way to identify and edit Skill 1, Skill 2, and Skill 3 values inside skill.bytes using Hex Editor tools.
 # Every hero has an ID. Every skill also has its own number.
 # Simple method: Skill 1 = add 0 after the hero ID, Skill 2 = add 1 after the hero ID, Skill 3 = add 2 after the hero ID.
